@@ -252,7 +252,7 @@
                 android:backgroundTint="@color/purple_700"
                 android:text="Find Now"
                 android:textAllCaps="false"
-                android:textColor="@color/warna6"
+                android:textColor="@color/textGrey"
                 android:textSize="16sp"
                 android:textStyle="bold" />
 
