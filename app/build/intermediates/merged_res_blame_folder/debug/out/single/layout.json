@@ -36,7 +36,6 @@
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\layout\\activity_payment.xml"
     },
     {
-        "merged": "com.tinne.finalproject4.app-mergeDebugResources-34:/layout/activity_home_input.xml",
-        "source": "com.tinne.finalproject4.app-main-37:/layout/activity_home_input.xml"
+        "merged": "com.tinne.finalproject4.app-mergeDebugResources-34:/layout/activity_choose_seat.xml",
+        "source": "com.tinne.finalproject4.app-main-37:/layout/activity_choose_seat.xml"
     }
-]

@@ -32,7 +32,7 @@
         android:layout_marginLeft="35dp"
         android:layout_marginTop="20dp"
         android:text="Choose your Seat"
-        android:textColor="@color/warna2"
+        android:textColor="@color/textGrey"
         android:textSize="16sp"
         android:textStyle="bold" />
 
@@ -317,7 +317,7 @@
             android:layout_weight="1"
             android:paddingLeft="10dp"
             android:text="Selected"
-            android:textColor="@color/warna2"
+            android:textColor="@color/textGrey"
             android:textSize="14sp"
             android:textStyle="bold" />
 
@@ -336,7 +336,7 @@
             android:layout_weight="1"
             android:paddingLeft="10dp"
             android:text="Reserved"
-            android:textColor="@color/warna2"
+            android:textColor="@color/textGrey"
             android:textSize="14sp"
             android:textStyle="bold" />
 
@@ -355,7 +355,7 @@
             android:layout_weight="1"
             android:paddingLeft="10dp"
             android:text="Available"
-            android:textColor="@color/warna2"
+            android:textColor="@color/textGrey"
             android:textSize="14sp"
             android:textStyle="bold" />
 

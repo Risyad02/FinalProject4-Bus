@@ -20,20 +20,16 @@
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\logopassanger.xml"
     },
     {
-        "merged": "com.tinne.finalproject4.app-merged_res-35:/drawable_bus3.png.flat",
-        "source": "com.tinne.finalproject4.app-main-37:/drawable/bus3.png"
-    },
-    {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_bus3.jpg.flat",
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\bus3.jpg"
     },
     {
-        "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher0_round.png.flat",
-        "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-debug-36:\\mipmap-xxxhdpi\\ic_launcher0_round.png"
-    },
-    {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher0_round.png.flat",
+        "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-debug-36:\\mipmap-xxxhdpi\\ic_launcher0_round.png"
     },
     {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\mipmap-xhdpi_ic_launcher0_round.png.flat",
@@ -96,10 +92,6 @@
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.tinne.finalproject4.app-merged_res-35:/drawable_bus2.png.flat",
-        "source": "com.tinne.finalproject4.app-main-37:/drawable/bus2.png"
-    },
-    {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
     },
@@ -124,6 +116,10 @@
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\layout\\activity_choose_seat.xml"
     },
     {
+        "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_bus2.png.flat",
+        "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\bus2.png"
+    },
+    {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_booknowsmall.xml.flat",
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\booknowsmall.xml"
     },
@@ -144,10 +140,6 @@
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-debug-36:\\mipmap-xhdpi\\ic_launcher0.png"
     },
     {
-        "merged": "com.tinne.finalproject4.app-merged_res-35:/drawable_bus1.png.flat",
-        "source": "com.tinne.finalproject4.app-main-37:/drawable/bus1.png"
-    },
-    {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\xml\\data_extraction_rules.xml"
     },
@@ -158,6 +150,10 @@
     {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_btn_bordershape.xml.flat",
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\btn_bordershape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_bus4.png.flat",
+        "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\bus4.png"
     },
     {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_logofrom.xml.flat",
@@ -182,6 +178,10 @@
     {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_available.xml.flat",
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\available.xml"
+    },
+    {
+        "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_bus1.png.flat",
+        "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\bus1.png"
     },
     {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\layout_activity_detail_result.xml.flat",
@@ -216,16 +216,20 @@
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\bg_musang.png"
     },
     {
-        "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\layout\\activity_register.xml"
-    },
-    {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\layout_activity_home_input.xml.flat",
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\layout\\activity_home_input.xml"
     },
     {
+        "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\layout\\activity_register.xml"
+    },
+    {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_bus.png.flat",
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\bus.png"
+    },
+    {
+        "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_bus3.png.flat",
+        "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\bus3.png"
     },
     {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_bushome.png.flat",
@@ -264,10 +268,6 @@
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.tinne.finalproject4.app-merged_res-35:/drawable_bus4.png.flat",
-        "source": "com.tinne.finalproject4.app-main-37:/drawable/bus4.png"
-    },
-    {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher0_round.png.flat",
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-debug-36:\\mipmap-xxhdpi\\ic_launcher0_round.png"
     },
@@ -278,6 +278,10 @@
     {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_logoresultsampai.xml.flat",
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\logoresultsampai.xml"
+    },
+    {
+        "merged": "com.tinne.finalproject4.app-merged_res-35:/layout_activity_choose_seat.xml.flat",
+        "source": "com.tinne.finalproject4.app-main-37:/layout/activity_choose_seat.xml"
     },
     {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_selected.xml.flat",
@@ -292,11 +296,11 @@
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\back.xml"
     },
     {
-        "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher0_round.xml.flat",
-        "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-debug-36:\\mipmap-anydpi-v26\\ic_launcher0_round.xml"
-    },
-    {
         "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\drawable_bus1.jpg.flat",
         "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-main-37:\\drawable\\bus1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher0_round.xml.flat",
+        "source": "C:\\Users\\Risyad Kamarullah\\.gradle\\daemon\\7.4\\com.tinne.finalproject4.app-debug-36:\\mipmap-anydpi-v26\\ic_launcher0_round.xml"
     }
 ]
