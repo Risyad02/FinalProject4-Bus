@@ -31,7 +31,7 @@ public class LoginActivity extends AppCompatActivity {
             String email = loginBinding.edEmail.getText().toString().trim();
             String password = loginBinding.edPassword.getText().toString().trim();
             if (email.isEmpty()) {
-                loginBinding.edEmail.setError("Email tidak boleh kososng");
+                loginBinding.edEmail.setError("Email tidak boleh kosong");
                 Toast.makeText(this, "Email Kosong", Toast.LENGTH_SHORT).show();
             } else if (password.isEmpty()) {
                 loginBinding.edPassword.setError("Password tidak boleh kosong");

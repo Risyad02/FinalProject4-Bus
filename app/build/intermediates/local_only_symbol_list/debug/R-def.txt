@@ -22,7 +22,6 @@ drawable bushome
 drawable card_button_purpple
 drawable card_main_menu
 drawable ed_border
-drawable ic_bni
 drawable ic_launcher0_background
 drawable ic_launcher0_foreground
 drawable ic_launcher_background
