@@ -5,6 +5,7 @@ color grayEd
 color purple_200
 color purple_500
 color purple_700
+color red
 color teal_200
 color teal_700
 color textGrey
@@ -18,11 +19,15 @@ drawable bus2
 drawable bus3
 drawable bus4
 drawable bushome
+drawable card_button_purpple
+drawable card_main_menu
 drawable ed_border
+drawable ic_bni
 drawable ic_launcher0_background
 drawable ic_launcher0_foreground
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_mandiri
 drawable imghome
 drawable imgresult
 drawable linehome
@@ -50,14 +55,14 @@ id btnLogin
 id btnSeat
 id btnSignUp
 id btnSubmit
+id btn_pilih_pembayaran
+id btn_verify
 id btnlogout
-id button_pay
 id card
 id club_recview
 id edConfirmPassword
 id edEmail
 id edPassword
-id edit_card_number
 id imOr
 id image
 id imageView
@@ -110,7 +115,7 @@ id seat7
 id seat8
 id seat9
 id text
-id text_amount
+id totalPay
 id tvChosse
 id tvDarimana
 id tvDate
@@ -132,6 +137,7 @@ layout activity_detail_result
 layout activity_home_input
 layout activity_login
 layout activity_payment
+layout activity_payment_details
 layout activity_register
 layout activity_result_home
 layout activity_splash

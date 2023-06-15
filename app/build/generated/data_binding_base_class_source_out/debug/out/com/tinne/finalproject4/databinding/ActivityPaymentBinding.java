@@ -4,8 +4,6 @@ package com.tinne.finalproject4.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
-import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -22,20 +20,12 @@ public final class ActivityPaymentBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
-  public final Button buttonPay;
+  public final TextView btnPilihPembayaran;
 
-  @NonNull
-  public final EditText editCardNumber;
-
-  @NonNull
-  public final TextView textAmount;
-
-  private ActivityPaymentBinding(@NonNull LinearLayout rootView, @NonNull Button buttonPay,
-      @NonNull EditText editCardNumber, @NonNull TextView textAmount) {
+  private ActivityPaymentBinding(@NonNull LinearLayout rootView,
+      @NonNull TextView btnPilihPembayaran) {
     this.rootView = rootView;
-    this.buttonPay = buttonPay;
-    this.editCardNumber = editCardNumber;
-    this.textAmount = textAmount;
+    this.btnPilihPembayaran = btnPilihPembayaran;
   }
 
   @Override
@@ -65,26 +55,13 @@ public final class ActivityPaymentBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.button_pay;
-      Button buttonPay = ViewBindings.findChildViewById(rootView, id);
-      if (buttonPay == null) {
+      id = R.id.btn_pilih_pembayaran;
+      TextView btnPilihPembayaran = ViewBindings.findChildViewById(rootView, id);
+      if (btnPilihPembayaran == null) {
         break missingId;
       }
 
-      id = R.id.edit_card_number;
-      EditText editCardNumber = ViewBindings.findChildViewById(rootView, id);
-      if (editCardNumber == null) {
-        break missingId;
-      }
-
-      id = R.id.text_amount;
-      TextView textAmount = ViewBindings.findChildViewById(rootView, id);
-      if (textAmount == null) {
-        break missingId;
-      }
-
-      return new ActivityPaymentBinding((LinearLayout) rootView, buttonPay, editCardNumber,
-          textAmount);
+      return new ActivityPaymentBinding((LinearLayout) rootView, btnPilihPembayaran);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

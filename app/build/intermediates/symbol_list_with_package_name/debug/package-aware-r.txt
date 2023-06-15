@@ -1849,6 +1849,7 @@ color primary_text_disabled_material_light
 color purple_200
 color purple_500
 color purple_700
+color red
 color ripple_material_dark
 color ripple_material_light
 color secondary_text_default_material_dark
@@ -2586,6 +2587,8 @@ drawable bus2
 drawable bus3
 drawable bus4
 drawable bushome
+drawable card_button_purpple
+drawable card_main_menu
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -2613,6 +2616,7 @@ drawable design_snackbar_background
 drawable ed_border
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable ic_bni
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher0_background
@@ -2622,6 +2626,7 @@ drawable ic_launcher_foreground
 drawable ic_m3_chip_check
 drawable ic_m3_chip_checked_circle
 drawable ic_m3_chip_close
+drawable ic_mandiri
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
@@ -2829,9 +2834,10 @@ id btnLogin
 id btnSeat
 id btnSignUp
 id btnSubmit
+id btn_pilih_pembayaran
+id btn_verify
 id btnlogout
 id buttonPanel
-id button_pay
 id cache_measures
 id callMeasure
 id cancel_button
@@ -2909,7 +2915,6 @@ id east
 id edConfirmPassword
 id edEmail
 id edPassword
-id edit_card_number
 id edit_query
 id elastic
 id embed
@@ -3221,7 +3226,6 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id text_amount
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3238,6 +3242,7 @@ id title_template
 id toggle
 id top
 id topPanel
+id totalPay
 id touch_outside
 id transitionToEnd
 id transitionToStart
@@ -3415,6 +3420,7 @@ layout activity_detail_result
 layout activity_home_input
 layout activity_login
 layout activity_payment
+layout activity_payment_details
 layout activity_register
 layout activity_result_home
 layout activity_splash
